@@ -1,4 +1,4 @@
-### Hi 👋, I am Vaishnavi Alladi
+### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Vaishnavi Alladi
 
 ##### A Pre-final Year Undergrad, with dual majors of Economics + Electrical and Electronics Engineering, at BITS Pilani (India).
 
