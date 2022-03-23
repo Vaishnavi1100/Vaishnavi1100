@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I am Vaishnavi Alladi
+## A Pre-final Year Undergrad, with dual majors of Economics + Electrical and Electronics Engineering, at BITS Pilani (India).
 
 <!--
 **Vaishnavi1100/Vaishnavi1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
