@@ -1,6 +1,13 @@
 ### Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I am Vaishnavi Alladi
 
-##### A Pre-final Year Undergrad, with dual majors of Economics + Electrical and Electronics Engineering, at BITS Pilani (India).
+##### A Pre-final Year Undergrad, with dual majors in Economics + Electrical and Electronics Engineering, at BITS Pilani (India).
+ 
+- 🌱 I’m currently learning the Applications of Game theory on wireless communication networks.
+- 🔭 I'm keen on exploring the corporate world of finance and investment.
+- 💬 Talk to me about Geo-politics or Business world, I'm all ears! 
+- 📫 Reach me at a.vaishnavi123@gmail.com or f20180787@pilani.bits-pilani.ac.in 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Lite. I'm a sometimes nerd and sometimes bird! Beware!
 
 <!--
 **Vaishnavi1100/Vaishnavi1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
