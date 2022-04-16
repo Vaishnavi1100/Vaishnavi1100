@@ -8,6 +8,7 @@
 - 📫 Reach me at a.vaishnavi123@gmail.com or f20180787@pilani.bits-pilani.ac.in 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Lite. I'm a sometimes nerd and sometimes bird! Beware!
+- 📝Top Bucket list: A solo trip, Learning Ambidextry and Learning Stenography.
 
 <!--
 **Vaishnavi1100/Vaishnavi1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
